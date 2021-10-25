@@ -1,0 +1,23 @@
+/* My Awesome Styles */
+
+/* Diagnostic Styling 
+  * Change Background Color
+  * Outline Elements
+*/
+
+
+
+/* Doodle Stage */
+#stage {
+
+  /* Change dimensions for your content. */
+  height: 300px;
+  width: 600px;
+
+ 
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
